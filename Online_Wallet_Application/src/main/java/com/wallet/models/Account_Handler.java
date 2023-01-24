@@ -1,4 +1,4 @@
-package com.wallt.models;
+package com.wallet.models;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
