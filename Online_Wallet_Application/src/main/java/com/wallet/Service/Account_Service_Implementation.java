@@ -1,5 +1,8 @@
 package com.wallet.Service;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class Account_Service_Implementation implements Account_Service {
 
 	@Override
